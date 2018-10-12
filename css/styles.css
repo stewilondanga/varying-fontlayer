@@ -1,3 +1,8 @@
+HTML, BODY {
+  height: 100%;
+  overflow: hidden;
+}
+
 /*body {
   text-align: center;
   font-family: courier;
@@ -26,10 +31,6 @@
   src: url("https://yoksel.github.io/variable-fonts/assets/fonts/dT_Jakob_VariableConcept/dTJakobVariableConceptGX.ttf") format("truetype");
   font-weight: normal;
   font-style: normal;
-}
-HTML, BODY {
-  height: 100%;
-  overflow: hidden;
 }
 
 BODY {
