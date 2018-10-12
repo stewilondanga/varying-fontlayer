@@ -35,12 +35,12 @@ BODY {
   font-style: normal;
 }
 
-/*.fonts {
+.fonts {
   font-size: 180px;
   text-align: center;
 }
 
-.dTJakob {
+/*.dTJakob {
   font-family: 'dTJakobVariable';
 }
 .dTJakob--layered {
