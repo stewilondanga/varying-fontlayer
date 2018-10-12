@@ -52,7 +52,7 @@ BODY {
   font-variation-settings: "wght" 40;
 }
 
-/*.dTJakob--layered::before, .dTJakob--layered::after {
+.dTJakob--layered::before, .dTJakob--layered::after {
   content: attr(data-text);
   position: absolute;
   top: 0;
@@ -61,13 +61,14 @@ BODY {
   margin: auto;
   transition: all .25s;
   -webkit-animation-duration: 5s;
-          animation-duration: 5s;
+  animation-duration: 5s;
   -webkit-animation-iteration-count: infinite;
-          animation-iteration-count: infinite;
+  animation-iteration-count: infinite;
   -webkit-animation-name: color;
-          animation-name: color;
+  animation-name: color;
 }
-.dTJakob--layered::before {
+
+/*.dTJakob--layered::before {
   -webkit-font-feature-settings: 'liga' 1, 'dlig' 0, 'calt' 0;
           font-feature-settings: 'liga' 1, 'dlig' 0, 'calt' 0;
   -webkit-animation-duration: 7s;
