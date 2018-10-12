@@ -87,11 +87,11 @@ BODY {
   color: yellowgreen;
 }
 
-/*.dTJakob--layered:hover::after {
+.dTJakob--layered:hover::after {
   top: 90%;
 }
 
-@-webkit-keyframes color {
+/*@-webkit-keyframes color {
   0% {
     color: tomato;
   }
