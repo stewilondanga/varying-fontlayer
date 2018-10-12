@@ -76,10 +76,11 @@ BODY {
   color: skyblue;
 }
 
-/*.dTJakob--layered:hover::before {
+.dTJakob--layered:hover::before {
   top: -90%;
 }
-.dTJakob--layered::after {
+
+/*.dTJakob--layered::after {
   z-index: -1;
   -webkit-font-feature-settings: 'liga' 0, 'dlig' 1, 'calt' 0;
           font-feature-settings: 'liga' 0, 'dlig' 1, 'calt' 0;
