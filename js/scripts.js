@@ -7,8 +7,8 @@ var navigate = (function() {
   });
 })();
 
-/*var dTJakobText = document.querySelector('.dTJakob');
-var jvWghtRangeInput = document.querySelector('.range--dTJakob-wght');
+var dTJakobText = document.querySelector('.dTJakob');
+/*var jvWghtRangeInput = document.querySelector('.range--dTJakob-wght');
 
 
 jvWghtRangeInput.addEventListener('input', function () {
