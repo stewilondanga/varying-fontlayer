@@ -91,7 +91,7 @@ BODY {
   top: 90%;
 }
 
-/*@-webkit-keyframes color {
+@-webkit-keyframes color {
   0% {
     color: tomato;
   }
@@ -127,7 +127,7 @@ BODY {
   }
 }
 
-@keyframes color {
+/*@keyframes color {
   0% {
     color: tomato;
   }
