@@ -8,9 +8,9 @@ var navigate = (function() {
 })();
 
 var dTJakobText = document.querySelector('.dTJakob');
-/*var jvWghtRangeInput = document.querySelector('.range--dTJakob-wght');
+var jvWghtRangeInput = document.querySelector('.range--dTJakob-wght');
 
 
-jvWghtRangeInput.addEventListener('input', function () {
+/*jvWghtRangeInput.addEventListener('input', function () {
     dTJakobText.style['font-variation-settings'] = '"wght" ' + this.value;
 });
