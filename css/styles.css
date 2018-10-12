@@ -3,6 +3,16 @@ HTML, BODY {
   overflow: hidden;
 }
 
+BODY {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #111;
+  background-image: repeating-linear-gradient(-45deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) 10px, transparent 10px, transparent 20px);
+  color: #FFF;
+}
+
 /*body {
   text-align: center;
   font-family: courier;
@@ -31,16 +41,6 @@ HTML, BODY {
   src: url("https://yoksel.github.io/variable-fonts/assets/fonts/dT_Jakob_VariableConcept/dTJakobVariableConceptGX.ttf") format("truetype");
   font-weight: normal;
   font-style: normal;
-}
-
-BODY {
-  margin: 0;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  background: #111;
-  background-image: repeating-linear-gradient(-45deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) 10px, transparent 10px, transparent 20px);
-  color: #FFF;
 }
 
 .fonts {
