@@ -24,11 +24,11 @@ BODY {
   height: 2.5em;
 }
 
-/*.my_social a img {
+.my_social a img {
   height: 1.5em;
 }
 
-@font-face {
+/*@font-face {
   font-family: 'dTJakobVariable';
   src: url("https://yoksel.github.io/variable-fonts/assets/fonts/dT_Jakob_VariableConcept/dTJakobVariableConceptGX.ttf") format("truetype");
   font-weight: normal;
