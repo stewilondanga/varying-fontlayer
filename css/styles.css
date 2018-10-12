@@ -68,14 +68,15 @@ BODY {
   animation-name: color;
 }
 
-/*.dTJakob--layered::before {
+.dTJakob--layered::before {
   -webkit-font-feature-settings: 'liga' 1, 'dlig' 0, 'calt' 0;
-          font-feature-settings: 'liga' 1, 'dlig' 0, 'calt' 0;
+  font-feature-settings: 'liga' 1, 'dlig' 0, 'calt' 0;
   -webkit-animation-duration: 7s;
-          animation-duration: 7s;
+  animation-duration: 7s;
   color: skyblue;
 }
-.dTJakob--layered:hover::before {
+
+/*.dTJakob--layered:hover::before {
   top: -90%;
 }
 .dTJakob--layered::after {
