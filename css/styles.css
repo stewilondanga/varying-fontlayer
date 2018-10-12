@@ -40,10 +40,11 @@ BODY {
   text-align: center;
 }
 
-/*.dTJakob {
+.dTJakob {
   font-family: 'dTJakobVariable';
 }
-.dTJakob--layered {
+
+/*.dTJakob--layered {
   position: relative;
   z-index: 1;
   -webkit-font-feature-settings: 'liga' 0, 'dlig' 0, 'calt' 1;
